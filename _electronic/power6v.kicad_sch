@@ -2058,7 +2058,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SRP6060FA:SRP6060FA-4R7M"
+		(property "Footprint" "EASYEDA2KICAD:IND-SMD_L8.5-W8.0_PSPMAA0803H-330M-ANP"
 			(at 138.43 96.52 0)
 			(effects
 				(font
@@ -2112,7 +2112,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2046759"
+		(property "LCSC" "C3036141"
 			(at 138.43 96.52 90)
 			(effects
 				(font

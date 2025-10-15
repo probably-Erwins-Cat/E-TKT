@@ -1012,7 +1012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SnapEDA Library:BarrelJack_GCT_DCJ200-10-A_Horizontal"
+		(property "Footprint" "EASYEDA2KICAD:BarrelJack_Horizontal"
 			(at 123.19 89.916 0)
 			(effects
 				(font

@@ -1054,7 +1054,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "b3fs:B3FS-1000"
+		(property "Footprint" "EASYEDA2KICAD:KEY-SMD_4P-L6.0-W6.3-P4.50-LS8.0"
 			(at 127.254 101.6 0)
 			(effects
 				(font

@@ -4611,7 +4611,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SnapEDA Library:CUI_CSS-0575A-SMT"
+		(property "Footprint" "EASYEDA2KICAD:BUZ-SMD_L5.0-W5.5-P4.60"
 			(at 143.51 104.14 0)
 			(effects
 				(font
