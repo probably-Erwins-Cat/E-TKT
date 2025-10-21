@@ -1915,7 +1915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EASYEDA2KICAD:USB-C-TH_TYPE-C-6PLCH10.0-073"
+		(property "Footprint" "EASYEDA2KICAD:USB-C-TH_TYPE-604-T3-5A"
 			(at 124.46 124.46 0)
 			(effects
 				(font
@@ -1942,7 +1942,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5156601"
+		(property "LCSC" "C7464651"
 			(at 120.65 127 0)
 			(effects
 				(font
