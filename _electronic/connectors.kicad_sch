@@ -2035,6 +2035,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25190"
+			(at 175.26 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0b9337b-c08f-427f-bf60-efc098693f1e")
 		)
@@ -2215,6 +2224,15 @@
 		)
 		(property "Mouser" "OK"
 			(at 175.26 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25190"
+			(at 175.26 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)

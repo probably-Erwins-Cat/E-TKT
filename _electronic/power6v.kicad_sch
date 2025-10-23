@@ -1830,7 +1830,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 163.83 102.87 90)
+			(at 161.29 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1892,6 +1892,15 @@
 			)
 		)
 		(property "Mouser" "OK"
+			(at 163.83 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25803"
 			(at 163.83 102.87 0)
 			(effects
 				(font
@@ -2726,7 +2735,7 @@
 			)
 		)
 		(property "Value" "11K"
-			(at 163.83 115.57 90)
+			(at 161.29 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2790,6 +2799,15 @@
 			)
 		)
 		(property "Mouser" "OK"
+			(at 163.83 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25803"
 			(at 163.83 115.57 0)
 			(effects
 				(font

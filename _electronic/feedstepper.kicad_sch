@@ -2022,7 +2022,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2290"
 			(at 162.56 104.14 90)
 			(effects
 				(font
