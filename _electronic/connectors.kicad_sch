@@ -2067,10 +2067,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "83a39af2-7e8e-496d-826f-792b5056d51f")
 		(property "Reference" "SW1"
-			(at 129.5399 147.32 90)
+			(at 128.27 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2079,7 +2078,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 132.0799 147.32 90)
+			(at 128.27 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2933,7 +2932,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 119.38 152.4 90)
+			(at 119.38 154.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)

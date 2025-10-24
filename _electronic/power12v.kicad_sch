@@ -1341,6 +1341,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Vset = floating =12V"
+		(exclude_from_sim no)
+		(at 142.24 144.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "83716fb6-8f1f-457e-bd7a-836a775e5ff2")
+	)
 	(text "optional LED feedback"
 		(exclude_from_sim no)
 		(at 146.05 96.52 0)
@@ -1478,7 +1488,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 83.82) (xy 139.7 86.36)
+			(xy 139.7 81.28) (xy 139.7 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1728,7 +1738,7 @@
 	)
 	(hierarchical_label "12V OUT"
 		(shape input)
-		(at 139.7 83.82 90)
+		(at 139.7 81.28 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2160,7 +2170,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 149.86 86.36 90)
+			(at 149.86 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)

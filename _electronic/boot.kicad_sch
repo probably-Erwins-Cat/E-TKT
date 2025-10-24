@@ -2530,7 +2530,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 189.23 123.19 90)
+			(at 186.69 123.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3371,7 +3371,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 189.23 73.66 90)
+			(at 186.69 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)

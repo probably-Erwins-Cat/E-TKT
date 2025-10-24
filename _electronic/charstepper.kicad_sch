@@ -1734,6 +1734,12 @@
 		(uuid "84156d13-bd4a-4aaa-b35c-9fde88cbc349")
 	)
 	(junction
+		(at 119.38 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88aa677e-7fcb-4887-86b1-56b6d5ef2f26")
+	)
+	(junction
 		(at 119.38 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1750,12 +1756,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1790285-63e7-4ef3-93b0-67041498a6e8")
-	)
-	(junction
-		(at 119.38 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fcab9da9-e564-41a8-b47b-9041da590e51")
 	)
 	(wire
 		(pts
@@ -1859,7 +1859,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 90.17) (xy 119.38 90.17)
+			(xy 115.57 101.6) (xy 119.38 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1869,7 +1869,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 90.17) (xy 119.38 96.52)
+			(xy 119.38 101.6) (xy 119.38 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2099,16 +2099,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 101.6) (xy 138.43 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a111958f-42e1-4b85-a268-203feea0c326")
-	)
-	(wire
-		(pts
 			(xy 133.35 114.3) (xy 138.43 114.3)
 		)
 		(stroke
@@ -2179,16 +2169,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 90.17) (xy 130.81 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8416600-238b-4d5d-8bd6-2f96d81d9102")
-	)
-	(wire
-		(pts
 			(xy 138.43 93.98) (xy 134.62 93.98)
 		)
 		(stroke
@@ -2249,7 +2229,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 90.17) (xy 130.81 90.17)
+			(xy 119.38 101.6) (xy 138.43 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2526,7 +2506,7 @@
 	)
 	(hierarchical_label "ENA IN"
 		(shape input)
-		(at 115.57 90.17 180)
+		(at 115.57 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2553,7 +2533,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 96.52 110.49 90)
+			(at 96.52 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3675,7 +3655,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 96.52 96.52 90)
+			(at 96.52 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
